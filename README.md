@@ -36,8 +36,8 @@ I enjoy working with agile tools like <strong>Trello</strong>, <strong>Slack</st
 ✅ Manual Testing & Bug Reporting  
 ✅ Cypress for Frontend Automation  
 ✅ API Testing with Postman  
-🔄 GitHub Actions for CI  
-🔜 Mobile Automation (JavaScript + Appium)
+✅ GitHub Actions for CI  
+✅ Mobile Automation (JavaScript + Appium)
 
 ## <div align="center"> 📊 My Coding Stats </div>
 
