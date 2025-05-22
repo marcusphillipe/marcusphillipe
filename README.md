@@ -33,7 +33,7 @@ I enjoy working with agile tools like <strong>Trello</strong>, <strong>Slack</st
 
 ## <div align="center"> 📚 Learning & Practicing </div>
 
-✅ Manual Testing & Bug Reporting  
+✅ Software Testing  
 ✅ Cypress for Frontend Automation  
 ✅ API Testing with Postman  
 ✅ GitHub Actions for CI  
