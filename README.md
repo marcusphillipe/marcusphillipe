@@ -1,6 +1,6 @@
 # <div align="center"> 👨‍💻 Marcus Phillipe </div>
 
-### <div align="center">🧪 QA Engineer | Manual & Automated Testing | Cypress • Postman • JavaScript </div>
+### <div align="center">🧪 QA Engineer | Cypress • Postman • JavaScript | API, UI & Mobile Automation | SQL • GitHub Actions </div>
 
 ## <div align="center">  🔎 About Me </div>
 
